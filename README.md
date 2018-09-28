@@ -1,4 +1,4 @@
-# All-the-News-That-s-Fit-to-Scrape
+# All-the-News-Thats-Fit-to-Scrape
 This app lets users scrape news articles from NPR.com. Users can then view and leave comments on saved articles. This app uses Cheerio to scrape news from NPR and stores them in MongoDB using Mongoose.
 Please Click on this [link](https://polar-mountain-74352.herokuapp.com/) to Check the App out.
 
